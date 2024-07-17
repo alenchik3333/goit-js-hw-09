@@ -1,0 +1,19 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    list-style: none;
+    max-width: 1440px;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  
+  .gallery-image {
+    width: 360px;
+    height: 200px;
+  }
+  
+  /* .gallery-image-modal {
+    width: 1112px;
+    height: 640px;
+  } */
